@@ -29,8 +29,6 @@ The data consists of 10 fields:
 - *Taster Name*: name of the person who tasted and reviewed the wine
 - *Taster Twitter Handle*: Twitter handle for the person who tasted ane reviewed the wine
 
-
-
 ### Wine Analysis Conclusion
 ___________________________________________________________
 
@@ -45,9 +43,13 @@ ___________________________________________________________
 ___________________________________________________________
 
 - pandas
+- numpy
 - hvplot
-- matpltb
-- nltk
+- matplotlib.pyplot
+- nltk (Natural Language Tool Kit)
+- json
+- re (RegEx)
+- unicodedata
 
 ### Key Visuals and Tables
 ___________________________________________________________
