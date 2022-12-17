@@ -1,4 +1,4 @@
-# Project 1 Wine Review Analysis 
+# Wine Reviews Data Analysis 
 ____________________________________________________________
 
 By: Danielle Anderson, Eric Simon, Omar Solis, and Tali Tesar
