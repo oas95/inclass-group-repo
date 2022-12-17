@@ -41,9 +41,31 @@ ___________________________________________________________
 - There was no significant difference in flavor profile value or body scale value for different price levels, and the wines with extreme flavors or body are generally the cheapest.
 - *Recommended Sources of Flavor*: Berry - Isreal, Stone Fruits - Bulgaria, Citris - German, Fruit variety - Hungary
 
-### Key Visuals 
+### Key Visuals and Tables
+___________________________________________________________
 
+Best Value Wines by Price Point
 
+![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/Best_value_wines2.png)
+
+Top 5 Highest Rated and most Expensive Wines by Country
+
+![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/Top5%20Countries%20on%20score.png)   ![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/top_5_most_expensive_countries.png)
+
+Average Score vs Price by Country Scatterplot
+
+![image]()
+
+Price vs Flavor Profile & Price vs Body Profile
+![image]()    ![image]()
+
+Pie Chart for Top Fruitiest Wines by Country
+
+![image]()
+
+![image]()
+
+![image]()
 ### Sources
 ____________________________________________________________
 Data Source: https://www.kaggle.com/datasets/zynicide/wine-reviews
