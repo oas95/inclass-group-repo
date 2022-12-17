@@ -41,8 +41,11 @@ ___________________________________________________________
 - There was no significant difference in flavor profile value or body scale value for different price levels, and the wines with extreme flavors or body are generally the cheapest.
 - *Recommended Sources of Flavor*: Berry - Isreal, Stone Fruits - Bulgaria, Citris - German, Fruit variety - Hungary
 
+### Key Visuals 
+
 
 ### Sources
 ____________________________________________________________
 Data Source: https://www.kaggle.com/datasets/zynicide/wine-reviews
+
 Wine Word Bank Source: https://winefolly.com/deep-dive/wine-tasting-terms-to-use/
