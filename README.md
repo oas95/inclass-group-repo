@@ -44,29 +44,31 @@ ___________________________________________________________
 ### Key Visuals and Tables
 ___________________________________________________________
 
-Best Value Wines by Price Point
+*Best Value Wines by Price Point*
 
 ![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/Best_value_wines2.png)
 
-Top 5 Highest Rated and most Expensive Wines by Country
+*Top 5 Highest Rated and most Expensive Wines by Country*
 
 ![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/Top5%20Countries%20on%20score.png) 
 ![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/top_5_most_expensive_countries.png)
 
-Average Score vs Price by Country Scatterplot
+*Average Score vs Price by Country Scatterplot*
 
-![image]()
+![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/country_scorevsprice.png)
 
-Price vs Flavor Profile & Price vs Body Profile
-![image]()    ![image]()
+*Price vs Flavor Profile & Price vs Body Profile*
+![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/Price_vs_flavor.png)    
+![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/pricevsbody.png)
 
-Pie Chart for Top Fruitiest Wines by Country
+*Pie Chart for Top Fruitiest Wines by Country*
 
-![image]()
+![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/Bulgaria_top_fruits.png)
 
-![image]()
+![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/Germany_top_fruits.png)
 
-![image]()
+![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/Israel_top_fruits.png)
+
 ### Sources
 ____________________________________________________________
 Data Source: https://www.kaggle.com/datasets/zynicide/wine-reviews
