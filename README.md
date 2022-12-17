@@ -1,7 +1,7 @@
 # Wine Reviews Data Analysis 
 ____________________________________________________________
 
-By: Danielle Anderson, Eric Simon, Omar Solis, and Tali Tesar
+By: [Danielle Anderson](), [Eric Simon](), Omar Solis, and [Tali Tesar]()
 
 This project consists of an analysis of [wine data](https://www.kaggle.com/datasets/zynicide/wine-reviews) that was scrapped from [WineEnthusiast](https://www.winemag.com/?s=&drink_type=wine) by the user [ZACKTHOUTT](https://www.kaggle.com/zynicide) on kaggle. The wine data consisted of over 130,000 different wines, including a review and score from a professional sommelier, and our analysis centers around the questions:
 
