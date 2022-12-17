@@ -58,8 +58,8 @@ ___________________________________________________________
 ![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/country_scorevsprice.png)
 
 *Price vs Flavor Profile & Price vs Body Profile*
-![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/Price_vs_flavor.png)    
-![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/pricevsbody.png)
+
+![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/Price_vs_flavor.png)![image](https://github.com/oas95/project1-wine-reviews/blob/main/Pywine/Output/pricevsbody.png)
 
 *Pie Chart for Top Fruitiest Wines by Country*
 
