@@ -1,7 +1,7 @@
 # Wine Reviews Data Analysis 
 ____________________________________________________________
 
-By: [Danielle Anderson](https://github.com/dganderson94),[Eric Simon](https://github.com/ericlsimon), Omar Solis, and [Tali Tesar](https://github.com/talitesar)
+By: [Danielle Anderson](https://github.com/dganderson94), [Eric Simon](https://github.com/ericlsimon), Omar Solis, and [Tali Tesar](https://github.com/talitesar)
 
 This project consists of an analysis of [wine data](https://www.kaggle.com/datasets/zynicide/wine-reviews) that was scrapped from [WineEnthusiast](https://www.winemag.com/?s=&drink_type=wine) by the user [ZACKTHOUTT](https://www.kaggle.com/zynicide) on kaggle. The wine data consisted of over 130,000 different wines, including a review and score from a professional sommelier, and our analysis centers around the questions:
 
@@ -40,6 +40,14 @@ ___________________________________________________________
 - Top 5 most expensive countries Switzerland($85.29), England($51.68), Germany($42.45), Italy($41.61), and France($41.19)
 - There was no significant difference in flavor profile value or body scale value for different price levels, and the wines with extreme flavors or body are generally the cheapest.
 - *Recommended Sources of Flavor*: Berry - Isreal, Stone Fruits - Bulgaria, Citris - German, Fruit variety - Hungary
+
+### Packages Used
+___________________________________________________________
+
+- pandas
+- hvplot
+- matpltb
+- nltk
 
 ### Key Visuals and Tables
 ___________________________________________________________
